@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Xml.Serialization;
 
 namespace CurrencyConverter
 {
@@ -23,6 +24,21 @@ namespace CurrencyConverter
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Convert_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Clear_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void NumberValidationTextBox(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
