@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\artem\\source\\repos\\currencyconverter\\currencyconverter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|C:\\Users\\artem\\source\\repos\\CurrencyConverter\\currencyconverter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\artem\\source\\repos\\currencyconverter\\currencyconverter\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|C:\\Users\\artem\\source\\repos\\CurrencyConverter\\currencyconverter\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -54,8 +54,7 @@
               "RelativeToolTip": "CurrencyConverter\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-10T13:49:26.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T13:49:26.661Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "CurrencyConverter\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\artem\\source\\repos\\CurrencyConverter\\CurrencyConverter\\MainWindow.xaml.cs",
               "RelativeToolTip": "CurrencyConverter\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwGsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T12:37:56.523Z",
               "EditorCaption": ""
