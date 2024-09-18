@@ -118,5 +118,19 @@ namespace CurrencyConverter
             if (cmbToCurrency.Items.Count > 0)
                 cmbToCurrency.SelectedIndex = 0;
         }
+
+        private void btnSave_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnCancel_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+        private void dgvCurrency_SelectedCellsChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

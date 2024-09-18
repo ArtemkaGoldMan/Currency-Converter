@@ -100,6 +100,13 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Image\CC_I.png" />
+    <Resource Include="Image\delete.png" />
+    <Resource Include="Image\edit.png" />
+    <Resource Include="Image\money.png" />
+    <Resource Include="urls.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\converotr.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

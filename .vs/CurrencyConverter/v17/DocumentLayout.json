@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\CurrencyConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\artem\\source\\repos\\currencyconverter\\currencyconverter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|C:\\Users\\artem\\source\\repos\\CurrencyConverter\\currencyconverter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|C:\\Users\\artem\\source\\repos\\CurrencyConverter\\currencyconverter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\artem\\source\\repos\\currencyconverter\\currencyconverter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AD29A794-113D-4EA1-BAE0-32141D284A7A}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -26,23 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\CurrencyConverter\\CurrencyConverter\\App.xaml",
-              "RelativeDocumentMoniker": "CurrencyConverter\\App.xaml",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\CurrencyConverter\\CurrencyConverter\\App.xaml",
-              "RelativeToolTip": "CurrencyConverter\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-10T13:57:07.206Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,7 +52,7 @@
               "RelativeDocumentMoniker": "CurrencyConverter\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\artem\\source\\repos\\CurrencyConverter\\CurrencyConverter\\MainWindow.xaml.cs",
               "RelativeToolTip": "CurrencyConverter\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAuwGsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAYwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T12:37:56.523Z",
               "EditorCaption": ""
@@ -79,6 +67,18 @@
               "RelativeToolTip": "CurrencyConverter\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-10T12:37:57.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\CurrencyConverter\\CurrencyConverter\\App.xaml",
+              "RelativeDocumentMoniker": "CurrencyConverter\\App.xaml",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\CurrencyConverter\\CurrencyConverter\\App.xaml",
+              "RelativeToolTip": "CurrencyConverter\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-10T13:57:07.206Z",
               "EditorCaption": ""
             }
           ]

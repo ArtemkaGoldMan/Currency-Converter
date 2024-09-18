@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/cc_i2.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/converotr.png")]
 
 
